@@ -21,10 +21,11 @@ Each tool does one thing, cleanly — no fluff, just functionality.
    git clone https://github.com/newVoid2/python-mini-tools.git
 
 2. Navigate into tools/ and explore a script.
+   ```bash
    cd python-mini-tools/tools
    python password_masker.py
 
-3. Run a tool and see what it does — feel free to edit it, refactor it, or build your own!
+4. Run a tool and see what it does — feel free to edit it, refactor it, or build your own!
 
 ---
 

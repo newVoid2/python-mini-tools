@@ -27,6 +27,7 @@ This repo is my space to:
 - Build clean, readable scripts
 - Use docstrings, type hints, and simple structured functions
 - Improve one tool at a time before moving to bigger projects
+
 Nothing here is meant to be “production-level” — it’s all about steady improvement.
 
 ---

@@ -1,17 +1,33 @@
 # Python-Mini-Tools
 
-A collection of small, focused Python scripts I build every day while going through my learning-path.  
-Each tool does one thing, cleanly — no fluff, just functionality.
+A growing collection of small, practical Python tools I’m building as I work through my learning path.
+Each script focuses on one idea or concept — clean, simple, and easy to extend later.
+
+The goal is not complexity, but consistent practice and writing code the “professional” way:
+clear structure, docstrings, type hints, and examples.
 
 ---
 
-## What you’ll find inside
+## Tools
 
-- Simple, standalone tools (each in the `tools/` folder)  
-- Code that practices core Python features: input/output, loops, functions, data types  
-- My transition toward backend / data-engineering work  
-- Nothing too heavy — just daily tools I build, refine, and commit  
+### Password Masker
+A lightweight utility that asks for a username and password, then prints a masked version of the password.
+Good practice for working with user input, string manipulation, and clean output formatting.
 
+### Find Duplicates
+A tool that checks a list for duplicate items and returns only the unique duplicates.
+Reinforces list iteration, conditional logic, and writing small, reusable functions.
+
+---
+
+## Purpose of This Repo
+
+This repo is my space to:
+- Practice writing small Python tools
+- Build clean, readable scripts
+- Use docstrings, type hints, and simple structured functions
+- Improve one tool at a time before moving to bigger projects
+Nothing here is meant to be “production-level” — it’s all about steady improvement.
 ---
 
 ## Getting started
@@ -29,15 +45,6 @@ Each tool does one thing, cleanly — no fluff, just functionality.
 
 ---
 
-## Why it matters
+## Coming Soon
 
-These little tools help me build muscle in Python every day.
-By the time I reach bigger projects, I’ll have practiced the foundation many times.
-
----
-
-## What’s next
-
-+ More tools every few days
-+ Clean up existing tools (refactor, add tests, improve docs)
-+ Build the first “serious” project (Python + data oriented) and move it from practice → portfolio
+More small utilities as I continue through Python, data structures, and backend concepts.

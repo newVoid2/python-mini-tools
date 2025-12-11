@@ -1,5 +1,5 @@
 """
-    Purpose: This tools is to find duplicates values in a list
+    Purpose: This tool finds duplicate values in a list
 
     Input: a list (no command line input from user)
     Output: a list with only duplicates values
@@ -11,6 +11,8 @@
     Output:
     ['b', 'n']
 """
+
+
 def find_duplicates(li):
     """
     Get duplicates from a list
@@ -19,8 +21,9 @@ def find_duplicates(li):
     for item in li:
         if li.count(item) > 1 and item not in duplicates_list:
             duplicates_list.append(item)
-    
+
     return duplicates_list
+
 
 def main():
     # Inputs
@@ -32,7 +35,6 @@ def main():
 
     print(f'The duplicates in {some_list} is {some_list_duplicates}')
     print(f'The duplicates in {some_list2} is {some_list2_duplicates}')
-
 
 
 if __name__ == '__main__':

@@ -18,6 +18,10 @@ Good practice for working with user input, string manipulation, and clean output
 A tool that checks a list for duplicate items and returns only the unique duplicates.
 Reinforces list iteration, conditional logic, and writing small, reusable functions.
 
+###Age Calculator Tool
+A small command-line utility that asks the user for their name and birth year,
+validates the input, calculates their current age, and prints the result.
+
 ---
 
 ## Purpose of This Repo
